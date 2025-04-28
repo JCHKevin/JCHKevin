@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, i am Kevin👋 </h1>
 
-<img src="github-header-image.png" alt="">
+<img src="github-header-image-kj.png" alt="">
 
 <h3> Here's some fun facts about me: </h3>
 
